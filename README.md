@@ -23,7 +23,7 @@ If you would like to run it on your own PC instead then make sure you have suffi
 ## The tutorial 📃
 The full tutorial is available on medium.
 
-https://azad-wolf.medium.com/
+https://azad-wolf.medium.com/what-are-stable-diffusion-models-and-why-are-they-a-step-forward-for-image-generation-aa1182801d46
 
 
 ## Text to Image Synthesis
