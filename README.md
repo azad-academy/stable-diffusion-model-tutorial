@@ -21,9 +21,15 @@ If you would like to run it on your own PC instead then make sure you have suffi
 
 
 ## The tutorial 📃
-The full tutorial is available on medium.
+
+On Medium:
 
 https://azad-wolf.medium.com/what-are-stable-diffusion-models-and-why-are-they-a-step-forward-for-image-generation-aa1182801d46
+
+On Substack:
+
+https://azadwolf.substack.com/p/what-is-a-stable-diffusion-model
+
 
 
 ## Text to Image Synthesis
